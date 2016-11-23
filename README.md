@@ -13,4 +13,8 @@ All the graphs files are taken from [here.](https://www.labri.fr/perso/dorbec/Co
 
 ---
 
+After compiling the Glucose solver (By going in the *glucose-syrup/simp/* folder and doing *make*) you can launch our code using a simple **./start.sh <graph.c> <nb_of_colors>** command.
+
+---
+
 Khaled FAYSAL AHMED and Arnaud GALLARDO
